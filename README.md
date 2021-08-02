@@ -60,8 +60,4 @@ Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passi
 
 #
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
