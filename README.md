@@ -33,7 +33,7 @@ Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passi
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I Like exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
 ### Projects and Dev Stuffs:
