@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer and working with Perennial System. I have 2+ years of expricence working independently in building products across
 multiple domains in Golang and 6 months of experience working as a DevOps engineer where have worked for Product
-Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻
+Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/shrikar007/shrikar007/master/gifs/golangcoder.gif" />
 
