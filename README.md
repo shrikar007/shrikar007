@@ -54,6 +54,7 @@ Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passi
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> Goland - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
+	    <li><b>Cloud Service:</b> Amazon Web Services</li>
 	    <br />
 	</ul>	
 
