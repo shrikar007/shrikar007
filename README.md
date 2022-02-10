@@ -27,7 +27,7 @@ Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passi
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Golang, Docker, Microservices, RestAPI, <br/> Serverless, AWS, GCP, Mongodb, Postgresql, MySQL,Jenkins,<br/>& Bitbucket pipelines etc.
-- 👨🏻‍💻 &nbsp; Most of my work are available on [Github](https://github.com/shrikar007).
+- 👨🏻‍💻 &nbsp; Most of my POC work are available on [Github](https://github.com/shrikar007).
 - 📫 &nbsp; How to reach me: shrikarvaitala90@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/shrikar007/shrikar007/blob/main/Shrikar_Vaitala.pdf).
 
