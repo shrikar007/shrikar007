@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shrikar007.shrikar007&style=flat-square&color=0088cc)
 
-I'm a Software Engineer and working with Perennial System. I have 2.5+ years of expricence working independently in building products across
+I'm a Software Engineer and working with Pitney Bowes. I have 3.5+ years of expricence working independently in building products across
 multiple domains in Golang and 6 months of experience working as a DevOps engineer where have worked for Product
 Teams to operate smoothly under Agile and adopt the DevOps culture.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨. Apart from that I also like to guide and mentor newbies 👨🏻‍💻
 
